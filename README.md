@@ -3,7 +3,6 @@
 
 <br>
 
-[<h1>Click here](https://github.com/Technicalaccent) for the complete tutorials on Arduino basics.</h1>
 
 
 <br>
